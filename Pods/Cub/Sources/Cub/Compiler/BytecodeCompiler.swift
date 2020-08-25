@@ -16,7 +16,7 @@ public enum CompilerOptimizationLevel: Int {
 public struct BytecodeCompilerOptions: OptionSet {
     public let rawValue: Int
 
-	public init(rawValue: BytecodeCompilerOptions.RawValue) {
+	public init(rawValue: Int) {
 		self.rawValue = rawValue
 	}
 	

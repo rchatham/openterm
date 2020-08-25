@@ -10,7 +10,6 @@ target 'OpenTerm' do
   pod 'Cub', '~> 1.0'
   pod 'SavannaKit', '~> 0.6'
   pod 'HueKit', '~> 1.0'
-  pod 'BezierPathLength', '~> 1.0'
   pod 'TabView', '~> 1.0'
   pod 'InputAssistant', '~> 1.0'
   pod 'SwiftLint'

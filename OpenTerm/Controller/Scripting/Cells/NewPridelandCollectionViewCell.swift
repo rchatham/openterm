@@ -7,7 +7,6 @@
 //
 
 import UIKit
-import BezierPathLength
 
 class NewPridelandCollectionViewCell: UICollectionViewCell {
 
